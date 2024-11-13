@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """𝖸𝗈...𝖸𝗈... {} 💖
+    START_TXT = """<blockquote>𝖸𝗈...𝖸𝗈... {} 💖</blockquote>
 
 <b><u>𝖨'𝗆 𝖯𝗈𝗐𝖾𝗋𝖿𝗎𝗅 𝖠𝗎𝗍𝗈-𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍 𝖸𝗈𝗎 𝖢𝖺𝗇 𝖴𝗌𝖾 𝖬𝖾 𝖠𝗌 𝖠 𝖠𝗎𝗍𝗈-𝖿𝗂𝗅𝗍𝖾𝗋 𝗂𝗇 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉</u></b>
 
@@ -9,7 +9,7 @@ class script(object):
 ⚠️ 𝖬𝗈𝗋𝖾 𝖧𝖾𝗅𝗉 𝖧𝗂𝗍 /help
 """
 
-    HELP_TXT = """🙋🏻‍♂️   𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓
+    HELP_TXT = """<blockquote>🙋🏻‍♂️ 𝖧𝖾𝗅𝗅𝗈𝗈𝗈  {} 🤓</blockquote>
 
 ○  𝗂𝗍'𝗌 𝖭𝗈𝗍𝖾 𝖢𝗈𝗆𝗉𝗅𝗂𝖼𝖺𝗍𝖾𝖽...🤓
 
