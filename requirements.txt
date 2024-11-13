@@ -11,3 +11,5 @@ datetime
 pytz
 aiohttp
 psutil==5.9.4
+Flask
+gunicorn
