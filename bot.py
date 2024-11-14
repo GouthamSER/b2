@@ -1,4 +1,5 @@
 import logging
+import tgcrypto
 import logging.config
 
 # Get logging configurations
